@@ -6,7 +6,7 @@
 Use cases
 =========
 
-The Wazuh platform helps organizations and individuals protect their data assets through threat prevention, detection, and response. Besides, Wazuh is also employed to meet regulatory compliance requirements, such as PCI DSS or HIPAA, and configuration standards like CIS hardening guides.
+The Wazuh platform helps organizations and individuals protect their data assets through threat prevention, detection, and response. Besides this, Wazuh is also employed to meet regulatory compliance requirements, such as PCI DSS or HIPAA, and configuration standards like CIS hardening guides.
 
 Moreover, Wazuh is also a solution for users of IaaS (Amazon AWS, Azure, or Google Cloud) to monitor virtual machines and cloud instances. This is done at a system level utilizing the :doc:`Wazuh security agent <../components/wazuh-agent>` and at an infrastructure level pulling data directly from the cloud provider API.
 
